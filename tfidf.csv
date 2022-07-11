@@ -1,0 +1,31 @@
+,tfidf_sum,sentence,file_name
+0,4.1971,"All of us know what those challenges are today - a war with no end, a dependence on oil that threatens our future, schools where too many children aren't learning, and families struggling paycheck to paycheck despite working as hard as they can.",doc1.txt
+1,4.1199,"It is because men and women of every race, from every walk of life, continued to march for freedom long after Lincoln was laid to rest, that today we have the chance to face the challenges of this millennium together, as one people - as Americans.",doc1.txt
+2,4.0397,"Every single person willing to work should be able to get job training that leads to a job, and earn a living wage that can pay the bills, and afford child care so their kids have a safe place to go when they work.",doc1.txt
+3,3.9607,"In the face of a politics that's shut you out, that's told you to settle, that's divided us for too long, you believe we can be one people, reaching for what's possible, building that more perfect union.",doc1.txt
+4,3.9087,"I want to win that next battle - for better schools, and better jobs, and health care for all.",doc1.txt
+5,8.3942,It's because John McCain doesn't get it.,doc2.txt
+6,8.2398,It's not because John McCain doesn't care.,doc2.txt
+7,8.0793,"It should help us, not hurt us.",doc2.txt
+8,7.9213,"Four years ago, I stood before you and told you my story - of the brief union between a young man from Kenya and a young woman from Kansas who weren't well-off or well-known, but shared a belief that in America, their son could achieve whatever he put his mind to.",doc2.txt
+9,7.8174,John McCain likes to say that he'll follow bin Laden to the Gates of Hell - but he won't even go to the cave where he lives.,doc2.txt
+10,8.3942,And I think that we face one of those moments today.,doc3.txt
+11,8.2398,Because we've always fought to bring all of our people under the blanket of the American Dream.,doc3.txt
+12,8.0793,We just didn't know he was talking about this one.,doc3.txt
+13,7.9213,These are Americans who still believe in an America where anything's possible - they just don't think their leaders do.,doc3.txt
+14,7.8174,"Because in the end, we may be proud Democrats, but we are prouder Americans.",doc3.txt
+15,8.3942,It cannot wait for other nations to act first.,doc4.txt
+16,8.2398,"But, Kenya must do its part.",doc4.txt
+17,8.0793,"Among other things, this recognition resulted in the coalition that came to power in the December elections of 2002.",doc4.txt
+18,7.9213,"When it broke down in front of Uhuru Park, we had to push until some joakalis came to fix it by the side of the road.",doc4.txt
+19,7.7096,I began to understand and appreciate the distance he had traveled - from being a boy herding goats to a student at the University of Hawaii and Harvard University to the respected economist that he was upon his return to Kenya.,doc4.txt
+20,8.3942,"In just the past three weeks, he has ?",doc5.txt
+21,8.2398,Prime Minister Maliki is not making our job easier.,doc5.txt
+22,8.0793,"Our troops can help suppress the violence, but they cannot solve its root causes.",doc5.txt
+23,7.9213,"It was true for those who built democracy’s arsenal to vanquish fascism, and who then built a series of alliances and a world order that would ultimately defeat communism.",doc5.txt
+24,7.8174,"So far, Congress has given the Administration unprecedented flexibility in determining how to spend more than $20 billion dollars in Iraq.",doc5.txt
+25,8.3942,"For years, Nunn-Lugar programs have been effectively upgrading security at sites in six countries across the former Soviet Union.",doc6.txt
+26,8.2398,"Fortunately, however, we've made some good progress on this front.",doc6.txt
+27,8.0793,And it will be dangerous.,doc6.txt
+28,7.9213,"We entered through no fences or discernible security, and once we did, we found ourselves in a building with open first-floor windows and padlocks that many of us would not use to secure our own luggage.",doc6.txt
+29,7.7096,"Of course, Dick has been there and he has done that, and thanks to the Cooperative Threat Reduction Programs he co-founded with Senator Sam Nunn, we've made amazing progress in finding, securing, and guarding some of the deadliest weapons that were left scattered throughout the former Soviet Union after the Cold War.",doc6.txt
