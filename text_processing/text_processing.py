@@ -5,6 +5,8 @@ from nltk.corpus import stopwords, wordnet
 from nltk.stem import WordNetLemmatizer
 from nltk import pos_tag
 
+import nltk
+nltk.download('popular')
 
 
 from document.document import Document
